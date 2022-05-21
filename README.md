@@ -15,7 +15,7 @@
 <figcaption>starboy</figcaption></figure>
 <main>
 <p><hr>what is web design;</p>
-<p><br>web design is what we are about to dive into now so just sit tight and enjoy the ride</br></p>
+<p><br>web design is what we are about to dive into now so just sit tight and enjoy the ride</p>
 
 </main>
 
@@ -34,7 +34,7 @@
 
 <input>
 <br>
-<progress value="10" max="100">10%</progress>
+<progress value="70" max="100">10%</progress>
 <br>
 </table>
 
@@ -53,7 +53,7 @@
 
 </p> 
 <p><br>
-have faith in God</p></br>
+have faith in God</p>
 </footer>
 
 
