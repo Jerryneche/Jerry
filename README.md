@@ -14,7 +14,7 @@
 <img src ="lilkizs.jpg" width="device-width" alt="">
 <figcaption>starboy</figcaption></figure>
 <main>
-<p><hr>what is web design;</p></hr>
+<p><hr>what is web design;</p>
 <p><br>web design is what we are about to dive into now so just sit tight and enjoy the ride</br></p>
 
 </main>
@@ -59,4 +59,4 @@ have faith in God</p></br>
 
 </body>
 
-</html>
+
