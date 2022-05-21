@@ -7,7 +7,7 @@
 <h4>Introduction to web <button>DESIGN</button></h4>
 </head>
 <body>
-<! class="fas fa-angry fa-size"</!>
+
 
 <div class="awesome"></div>    
 <figure>
@@ -31,17 +31,17 @@
 <tr><td>adam</td><td>emma</td></tr>
 <tr><td rowspan="2">steve</td><td>moses</td></tr><tr><td>Samuel</td></tr>
 
-</br>
+
 <input>
 <br>
 <progress value="10" max="100">10%</progress>
-<br></br>
+<br>
 </table>
 
 
 <footer>
 
-<address><br>ogun street</br>lagos state.</address>
+<address><br>ogun streetlagos state.</address>
 
 
 
