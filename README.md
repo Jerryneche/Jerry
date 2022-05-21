@@ -1,10 +1,7 @@
 # Jerry.github.io
 
-
-<<!doctype html>
 <head>
 <meta charset ="UTF-8">
-<title>font awesome demo</title>
 <!--link to font awesome CDN-content delivery network-->
 <link rel="style sheet" href="https://use.fontawesome.com/" crossorigin="anonymous"/>
 <h4>Introduction to web <button>DESIGN</button></h4>
