@@ -92,7 +92,7 @@ There are blessings I can't reach. Yet. I'll need to grow to reach them. Literal
 
 </main>
 
-<table style ="background-color:green"; border=""><cite><a href="https://jerryneche.github.io/Jerry/">click here</cite></a></th></tr>
+<table style="background-color":green;><th><tr><a href="https://jerryneche.github.io/Jerry/">click here</a></th></tr>
 <tr><td>okoli</td><td>jerry</td><td>neche</td></tr>
 </table>
 <br>
@@ -102,12 +102,11 @@ There are blessings I can't reach. Yet. I'll need to grow to reach them. Literal
 <tr><td rowspan="3">smith</td><td>rex</td></tr><tr><td>smart</td></tr><tr><td>Anthony</td></tr>
 <tr><td>adam</td><td>emma</td></tr>
 <tr><td rowspan="2">steve</td><td>moses</td></tr><tr><td>Samuel</td></tr>
-
+</table>
 <input>
 <br>
 60%<progress value="60" max="100"><hr>10%</progress>60%
 <br>
-</table>
 
 
 <footer>
@@ -117,8 +116,8 @@ There are blessings I can't reach. Yet. I'll need to grow to reach them. Literal
 
 
 
-<p><a href="www.edehmicheal.com">Jerry
-</a></p>
+<p><a href="Https://www.edehmicheal.com">Jerry</a>
+</p>
 <p>
 <a href="https://twitter.com" target="blank">twitter logo</a>
 
