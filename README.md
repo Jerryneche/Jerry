@@ -92,11 +92,11 @@ There are blessings I can't reach. Yet. I'll need to grow to reach them. Literal
 
 </main>
 
-<table style ="background-color:green; border=""><cite><a href="https://jerryneche.github.io/Jerry/">click here</cite></a></th></tr>
+<table style ="background-color:green"; border=""><cite><a href="https://jerryneche.github.io/Jerry/">click here</cite></a></th></tr>
 <tr><td>okoli</td><td>jerry</td><td>neche</td></tr>
 </table>
 <br>
-<table style="background-color:green; border="1">
+<table style="background-color":green; border="1">
 
 <tr><th>friends name;</th><th>siblings name;</th></tr>
 <tr><td rowspan="3">smith</td><td>rex</td></tr><tr><td>smart</td></tr><tr><td>Anthony</td></tr>
