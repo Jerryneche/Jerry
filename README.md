@@ -1,11 +1,10 @@
-<!doctype html>
+<!--"!doctype html"-->
 <head>
 <meta charset ="UTF-8">
 
 <meta name="description" content="introduction to web">
 <title>ALPHABETS</title>
-<!--link to font awesome CDN-content delivery network-->
-<link rel="style sheet" href="https://use.fontawesome.com/" crossorigin="anonymous"/>
+
 <h1>Introduction to web <button>DESIGN</button></h1>
 
 <nav>
