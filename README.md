@@ -81,30 +81,28 @@ There are blessings I can't reach. Yet. I'll need to grow to reach them. Literal
   Microsoft Edge is a web browser developed by Microsoft, released in 2015. Microsoft Edge replaced Internet Explorer.
 </article>
 
-<! class="fas fa-angry fa-size"</!>
 
-<div class="awesome"></div>    
+ 
 <figure>
 <img src ="lilkizs.jpg" width="device-width" alt="">
 <figcaption>starboy</figcaption></figure>
 <main>
 <p>what is web design;</p>
-<p><br>web design<br>is what we are about to dive into now so just sit tight and enjoy the ride</br></p>
+<p><br>web design<br>is what we are about to dive into now so just sit tight and enjoy the ride</p>
 
 </main>
 
-<table border=""><cite><a href="https://jerryneche.github.io/Jerry/">click here</cite></a></th></tr>
+<table style ="background-color:green; border=""><cite><a href="https://jerryneche.github.io/Jerry/">click here</cite></a></th></tr>
 <tr><td>okoli</td><td>jerry</td><td>neche</td></tr>
 </table>
 <br>
-<table border="1">
+<table style="background-color:green; border="1">
 
 <tr><th>friends name;</th><th>siblings name;</th></tr>
 <tr><td rowspan="3">smith</td><td>rex</td></tr><tr><td>smart</td></tr><tr><td>Anthony</td></tr>
 <tr><td>adam</td><td>emma</td></tr>
 <tr><td rowspan="2">steve</td><td>moses</td></tr><tr><td>Samuel</td></tr>
 
-</br>
 <input>
 <br>
 60%<progress value="60" max="100"><hr>10%</progress>60%
@@ -114,7 +112,7 @@ There are blessings I can't reach. Yet. I'll need to grow to reach them. Literal
 
 <footer>
 
-<address><br>ogun street</br>lagos state.</address>
+<address><br>ogun street lagos state.</address>
 
 
 
@@ -130,5 +128,5 @@ have faith in God</p>
 </footer>
 
 
-</body>
-</html>
+<!--/body-->
+<!--/html-->
